@@ -10,7 +10,7 @@ from aiogram.types import CallbackQuery
 from crud_functions import *
 
 
-BOT_TOKEN = '6377273949:AAHSHDC044KDjch3EQhPuoRQlJT7Swql5xQ'
+BOT_TOKEN = '---какой-то-BOT-TOKEN---'
 
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
